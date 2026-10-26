@@ -26,6 +26,7 @@ public class StudentProfile {
         // Display the student's programme
         System.out.println("Programme: Bachelor of Computer Science");
         
+        //Activity 5-two lines added(semester and favourite language
         System.out.println("Semester: Semester 1");
         
         System.out.println("Favourite Language: Java");
